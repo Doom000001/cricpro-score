@@ -1,1 +1,1 @@
-# cricpro-score
+# cricpro-scoreboard
